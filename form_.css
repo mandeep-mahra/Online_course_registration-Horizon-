@@ -1,0 +1,65 @@
+body{
+margin:0;
+padding:0;
+background-image: url("https://assets-news.housing.com/news/wp-content/uploads/2020/04/09090934/How-to-register-property-and-land-online-in-India-FB-1200x700-compressed.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+
+.container{
+background:#7fe5f0;
+overflow:hidden;
+}
+#head1{
+font-family: verdana;
+font-size: 20px;
+padding-left: 50px;
+}
+.s1{
+  padding-left: 700px;
+}
+a {
+  color: black;
+  text-decoration: none;
+
+}
+
+.con1
+{
+  background-color: #fff;
+  font-family: tahoma;
+  margin-left:460px ;
+  margin-right:350px;
+  margin-top:25px ;
+  padding-top:25px ;
+  padding-left:15px;
+  padding-right:15px;
+  margin-bottom:25px;
+  padding-bottom: 25px;
+  width:30%;
+
+}
+.bx{
+
+
+    border: 1px solid #aaaaaa;
+    background: none;
+    padding: 5px 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+}
+.btn{
+  border: 1px solid #aaaaaa;
+  background: none;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family: sans-serif;
+  cursor: pointer;
+  margin: 10px;
+  transition: 0.8s;
+}

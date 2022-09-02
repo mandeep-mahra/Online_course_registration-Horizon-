@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body{
+font-family: 'Poppins', sans-serif;
+margin:0;
+padding: 0;
+background-image:url("https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/01/online-course-main-800x549.png");
+background-repeat: no-repeat;
+background-size:100%,100%;
+
+}
+.contain{
+margin-top: 10%;
+text-align: center;
+background-color:white;
+width:30%;
+margin-left:35%;
+opacity:0.7;
+border-radius:20px;
+
+}
+#head1{
+text-align: center;
+margin-top:50px;
+color: #aaaaaa;
+font-size:50px;
+font-family: monospace;
+
+}
+#head2{
+margin-top:2px;
+text-align: center;
+color: #3498db;
+font-size:45px;
+font-family:monospace;
+
+}
+.btn1,.btn2{
+border:1px solid #3498db;
+background:none;
+padding: 10px 20px;
+font-size: 25px;
+font-family:monstserrat;
+cursor:pointer;
+margin:10px;
+transition: 0.8s;
+border-radius:20px;
+}
+.btn1:hover,.btn2:hover{
+color:#3498db;
+}

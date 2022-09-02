@@ -1,0 +1,478 @@
+body{
+margin:0;
+padding:0;
+
+
+}
+
+.container{
+background:#7fe5f0;
+overflow:hidden;
+}
+#head1{
+font-family: verdana;
+font-size: 20px;
+padding-left: 50px;
+}
+.s1{
+  padding-left: 700px;
+}
+a{
+  color: black;
+  text-decoration: none;
+
+}
+.co1{
+background-image: url("https://www.openaccessgovernment.org/wp-content/uploads/2019/06/dreamstime_m_140084029.jpg");
+background-repeat: no-repeat;
+ b  background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in1{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn1{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn1:hover{
+  font-size: 30px;
+}
+
+
+.co2{
+
+background-image: url("https://www.adorama.com/alc/wp-content/uploads/2018/07/shutterstock_170815865.jpg");
+background-repeat: no-repeat;
+background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in2{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn2{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn2:hover{
+  font-size: 30px;
+}
+
+.co3{
+
+background-image: url("	https://lp-cms-production.imgix.net/features/2019/05/Solo-Travel-in-Nature-acbfea52bfaf.jpg");
+background-repeat: no-repeat;
+background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in3{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn3{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn3:hover{
+  font-size: 30px;
+}
+
+.co4{
+
+background-image: url("		https://blog.eduonix.com/wp-content/uploads/2018/09/Scientific-Python-Scipy-696x500.jpg");
+background-repeat: no-repeat;
+background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in4{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn4{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn4:hover{
+  font-size: 30px;
+}
+
+
+.co5{
+
+background-image: url("		https://www.promptcloud.com/wp-content/uploads/2018/08/text-analytics-mining-data.png");
+background-repeat: no-repeat;
+background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in5{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn5{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn5:hover{
+  font-size: 30px;
+}
+
+.co6{
+
+background-image: url("https://www.nutanix.com/content/dam/nutanix/images/img-cloud-computing.jpg	");
+background-repeat: no-repeat;
+background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in6{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn6{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn6:hover{
+  font-size: 30px;
+}
+
+.co7{
+
+background-image: url("	https://entrepreneurhandbook.co.uk/wp-content/uploads/2020/05/Communication-skills.png	");
+background-repeat: no-repeat;
+background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in7{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn7{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn7:hover{
+  font-size: 30px;
+}
+
+.co8{
+
+background-image: url("	https://analyticsindiamag.com/wp-content/uploads/2019/11/javascript.png");
+background-repeat: no-repeat;
+background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in8{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn8{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn8:hover{
+  font-size: 30px;
+}
+
+
+.co9{
+
+background-image: url("	https://learnsql.com/blog/what-is-dbms/DBMS.png	");
+background-repeat: no-repeat;
+background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in9{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn9{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn9:hover{
+  font-size: 30px;
+}
+
+
+.co10{
+
+background-image: url("		https://cdn2.hubspot.net/hubfs/725165/Screen%20Shot%202020-03-20%20at%209.42.52%20AM.png	");
+background-repeat: no-repeat;
+background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in10{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn10{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn10:hover{
+  font-size: 30px;
+}
+
+
+.co11{
+
+background-image: url("		https://content.timesjobs.com/img/75734018/Master.jpg");
+background-repeat: no-repeat;
+background-size: contain;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top:25px ;
+  padding-left:40px;
+  padding-right:40px;
+  padding-top: 40px;
+  padding-bottom:40px;
+  font-family:tahoma;
+
+}
+.in11{
+background-color:#576675;
+margin-left: 375px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+padding-bottom: 50px;
+border-radius: 20px;
+}
+.btn11{
+  border:1px solid #3498db;
+  background: #3498db;
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family:tahoma;
+  cursor:pointer;
+  margin:10px;
+  transition: 0.8s;
+  position: relative;
+  overflow:hidden;
+}
+.btn11:hover{
+  font-size: 30px;
+}
